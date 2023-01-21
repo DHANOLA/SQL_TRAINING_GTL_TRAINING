@@ -1,0 +1,10 @@
+emp_id,first_name,last_name,birth_date,sex,salary,super_id,branch_id
+100,David,Wallace,17-11-1967,M,250000,103,1
+101,Jan,Levinson,11-05-1961,F,110000,100,1
+102,Michael,Scott,15-03-1964,M,75000,100,2
+103,Angela,Martin,25-06-1971,F,63000,102,2
+104,Kelly,Kapoor,05-02-1980,F,55000,102,2
+105,Stanley,Hudson,19-02-1958,M,69000,102,2
+106,Josh,Porter,05-09-1969,M,78000,100,3
+107,Andy,Bernard,22-07-1973,M,65000,106,3
+108,Jim,Halpert,01-10-1978,M,71000,106,3
