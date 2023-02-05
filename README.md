@@ -1,8 +1,7 @@
-# SQL_TRAINING_GTL
+<h1><B><I> SQL TRAINING GTL
 
 <img src="https://leverageedu.com/blog/wp-content/uploads/2020/07/Uses-of-SQL.png">
 
 
 
-# My Practice Notes on the SQL Training Hands-on Held on Postgres SQL
-
+<h3><B><I> My Practice Notes on the SQL Training Hands-on Held on Postgres SQLat my intern Company - GTL
