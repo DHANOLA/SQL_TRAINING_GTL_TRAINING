@@ -1,4 +1,4 @@
-<h1><B><I> SQL TRAINING GTL
+<h1><B><I> SQL TRAINING GTL</h1>
 
 <img src="https://leverageedu.com/blog/wp-content/uploads/2020/07/Uses-of-SQL.png">
 
